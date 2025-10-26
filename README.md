@@ -1,4 +1,5 @@
 ## 
+<img width="1280" height="313" alt="image" src="https://github.com/user-attachments/assets/a108155e-b04f-4d98-9833-1dca8e512827" />
 
 <!--
 **dima853/dima853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
